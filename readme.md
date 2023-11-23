@@ -6,7 +6,7 @@ Paste below code in **pom.xml** under project tag
 
 Change class name with fully qualified name
 ```
-<build>
+    <build>
         <plugins>
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
@@ -32,7 +32,7 @@ Change class name with fully qualified name
             </plugin>
         </plugins>
     </build>
-</pre>
+
 ```
 
 ## Step 2
